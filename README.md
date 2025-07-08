@@ -112,8 +112,8 @@ Book (Abstract Base Class)
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd fawry_task2
+   git clone https://github.com/yusufafify/fawry_quantum_bookstore_assessment.git
+   cd fawry_quantum_bookstore_assessment
    ```
 
 2. **Install dependencies**
@@ -161,7 +161,7 @@ The application includes comprehensive test cases that demonstrate various scena
 7. **Type-specific Workflows**: Different processing for Paper Books vs E-Books
 8. **Showcase Book Restrictions**: Validation that showcase books cannot be purchased
 
-## 💡 Business Rules
+## 💡 Task Rules
 
 ### Book Management
 - **Unique ISBN**: Each book must have a unique ISBN identifier
