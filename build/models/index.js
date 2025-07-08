@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ShowcaseBook = exports.PaperBook = exports.EBook = exports.Book = void 0;
+var book_1 = require("./book");
+Object.defineProperty(exports, "Book", { enumerable: true, get: function () { return book_1.Book; } });
+var ebook_1 = require("./ebook");
+Object.defineProperty(exports, "EBook", { enumerable: true, get: function () { return ebook_1.EBook; } });
+var paperBook_1 = require("./paperBook");
+Object.defineProperty(exports, "PaperBook", { enumerable: true, get: function () { return paperBook_1.PaperBook; } });
+var showCaseBook_1 = require("./showCaseBook");
+Object.defineProperty(exports, "ShowcaseBook", { enumerable: true, get: function () { return showCaseBook_1.ShowcaseBook; } });
