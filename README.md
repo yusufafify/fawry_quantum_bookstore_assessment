@@ -33,7 +33,7 @@ The system simulates a complete bookstore management workflow including:
 ## 🗂️ Project Structure
 
 ```
-fawry_task2/
+fawry_quantum_bookstore_assessment/
 ├── index.ts                      # Main entry point with test execution
 ├── package.json                  # Project dependencies and scripts
 ├── tsconfig.json                 # TypeScript configuration
